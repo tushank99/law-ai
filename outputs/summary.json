@@ -1,0 +1,68 @@
+{
+  "model": "groq / openai/gpt-oss-120b",
+  "run_at": "2026-11-21T19:57:51.807632",
+  "results": [
+    {
+      "id": "deposit_en",
+      "categories": [
+        "security_deposit"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "deposit_notice",
+      "categories": [
+        "security_deposit"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "refund_hinglish",
+      "categories": [
+        "consumer_refund"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "salary_hindi",
+      "categories": [
+        "unpaid_salary"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "cheque_bounce",
+      "categories": [
+        "cheque_bounce"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "notice_received",
+      "categories": [
+        "unpaid_salary",
+        "received_notice"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "hallucination_bait",
+      "categories": [
+        "security_deposit"
+      ],
+      "unverified": []
+    },
+    {
+      "id": "out_of_scope",
+      "categories": [],
+      "unverified": []
+    },
+    {
+      "id": "roleplay_landlord",
+      "categories": [
+        "security_deposit"
+      ],
+      "unverified": []
+    }
+  ]
+}
