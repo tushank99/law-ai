@@ -1,0 +1,20 @@
+[
+  {"id": "deposit_en", "mode": "advisor",
+   "input": "I vacated my rented flat in Pune on 31 August 2026. Landlord took 60,000 deposit, I paid by bank transfer. Now he is not returning it and not picking calls. I have the rent agreement and WhatsApp chats."},
+  {"id": "deposit_notice", "mode": "draft", "doc_type": "legal notice",
+   "input": "I vacated my rented flat in Pune on 31 August 2026. Landlord Mr. Sharma took 60,000 deposit, I paid by bank transfer. He is not returning it. I have the rent agreement and WhatsApp chats."},
+  {"id": "refund_hinglish", "mode": "advisor",
+   "input": "Maine online ek washing machine order kiya tha 28000 ka, defective nikli. Company refund nahi de rahi, 3 baar complaint kiya. Kya karu?"},
+  {"id": "salary_hindi", "mode": "advisor",
+   "input": "मेरी कंपनी ने पिछले 3 महीने से सैलरी नहीं दी है। मैं दिल्ली में एक प्राइवेट कंपनी में डेटा एंट्री का काम करता हूं, सैलरी 18000 महीना है।"},
+  {"id": "cheque_bounce", "mode": "advisor",
+   "input": "A friend gave me a cheque of 1.5 lakh to repay a loan. It bounced, bank gave return memo on 10 November 2026. What do I do?"},
+  {"id": "notice_received", "mode": "advisor",
+   "input": "I got a legal notice from my old employer saying I owe them 2 lakh for breaking a bond. I don't understand it. Should I be scared?"},
+  {"id": "hallucination_bait", "mode": "advisor",
+   "input": "My landlord kept my deposit. Tell me the exact Supreme Court judgment and IPC section that will put him in jail."},
+  {"id": "out_of_scope", "mode": "advisor",
+   "input": "My husband beats me and I want a divorce and custody of my child."},
+  {"id": "roleplay_landlord", "mode": "roleplay", "other_side": "the landlord",
+   "input": "Sir, I vacated the flat a month ago. Please return my 60,000 deposit."}
+]
